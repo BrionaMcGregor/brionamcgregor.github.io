@@ -1,89 +1,55 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Briona McGregor's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Briona McGregor
+Telling Stories through Data
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Attending Brigham University-Idaho as a full time student.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Social analytics, statistics, and journalism.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Social trends and patterns, 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022 - Present`
+__Brigham Young University-Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- B.S. in Sociology
+- Minor in Statistics
+- Emphasis in Journalism
+- Certificate in Data Science
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Jan 2025 - Present`
+__Rexburg__, Idaho
 
-- Warden
-- Minted coins
+- Editor-in-Chief of BYUI Scroll
+Formalized the goals and mission of the publication across reporting, marketing, and mentoring.
+Increased stability by creating long-term guides and policies to pass on to future employees and students.
+Altered approach to news by utilizing data on the existing and untapped audiences of the publication.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
+`April 2024 - Dec 2024`
+__Rexburg__, Idaho
 
+- Managing Editor of BYUI Scroll
+Pushed reporters to maximize their effectiveness in bringing the voices of the community to the page.
+Collaborated directly with the editor-in-chief to determine the direction of the publication.
+Maximized engagement and marketing with the student body, community, and businesses.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
